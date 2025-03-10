@@ -1,3 +1,9 @@
+#### Student info
+##### Name: Nguyen Nhat An
+##### ID: 22110007
+----------------------------------
+
+
 Dessert Clicker app
 =====================
 
